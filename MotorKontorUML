@@ -1,17 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T09:17:02.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="UUK0Sjw0knzCVqlv3e7b" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T08:36:31.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="x37hg8XqvaQj5vVjZcsy" version="16.5.2" type="github">
   <diagram id="jvr9lEVewBQIh9P7453q" name="Page-1">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HUmx06PbKMWghRjce0s9-1" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="HUmx06PbKMWghRjce0s9-1" value="Use case" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="40" y="30" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="HUmx06PbKMWghRjce0s9-2" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="HUmx06PbKMWghRjce0s9-2" value="Flowchart" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="40" y="260" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="HUmx06PbKMWghRjce0s9-3" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="HUmx06PbKMWghRjce0s9-3" value="ER diagram / ERD" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="40" y="485" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Wih3d0zQQKqpRsYsV5OL-1" value="Klasse diagram" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="290" y="485" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Wih3d0zQQKqpRsYsV5OL-2" value="Database Diagram" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
